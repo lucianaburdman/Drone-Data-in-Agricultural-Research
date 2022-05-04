@@ -17,8 +17,15 @@ For this project I imported and visualized drone based multispectral data in QGI
 ### Find the results [here](https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/tree/main/Results)
 
 
+## A little bit about me
 
+Hi there 👋, I’m Luciana
 
++ I'm a doctor in biology and professional in data science, passionate about statistics and its applications in life science.
++ I am pasionate about learning new tools and collaborating with others to improve my research (for example working on projects like this one!).
++ You may also find me in the [filds](https://noticias.unsam.edu.ar/2017/09/11/investigadoras-del-3ia-relevaron-humedales-en-la-antartida/) (in spanish).
+
+You may find more information about me on my [LinkedIn](https://www.linkedin.com/in/luciana-burdman-biostatistician/) and feel free to e-mail me at luciana.burdman@gmail.com!
 
 ## Original data
 The data I work with was not captured by me, nor do I own any credits for it. For more information on the original data please refer to:
