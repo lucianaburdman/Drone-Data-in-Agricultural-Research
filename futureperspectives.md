@@ -1,4 +1,4 @@
-<img src="https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/blob/44b839c63d07f9b9e3a061344bdb7defa6064be0/Imagen1.jpg">
+<img src="https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/blob/44b839c63d07f9b9e3a061344bdb7defa6064be0/Imagen2.jpg">
 
 ### Here are some potential uses of drone data I’d like to work on!
 
