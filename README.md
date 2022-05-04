@@ -18,7 +18,7 @@ For this project I imported and visualized drone based multispectral data in QGI
 
 ### Find the results [here](https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/tree/main/Results)
 
-### Find some projects I would love to work on [here](https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/blob/cfbe1d7ffba7986540024e6ff728ffbb7d27a98a/futureperspectives.md)
+### Find some projects I would love to work on for the use of drones in agriculture [here](https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/blob/cfbe1d7ffba7986540024e6ff728ffbb7d27a98a/futureperspectives.md)
 
 ## A little bit about me
 
