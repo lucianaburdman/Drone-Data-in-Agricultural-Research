@@ -14,6 +14,8 @@ GRVI index is the Green Red Vegetation Index, one of the spectral vegetation ind
 ## Project information
 For this project I imported and visualized drone based multispectral data in QGIS and extracted data values for areas of interest in both a manual, low throughput method and a more automated, high throughput method in conjunction with R scripts.
 
+### Find the results [here](https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/tree/main/Results)
+
 ## Original data
 The data I work with was not captured by me, nor do I own any credits for it. For more information on the original data please refer to:
 Nelsen, T., & Lundy, M. (2021). Drone Data in Agricultural Research [GitHub repository]. 
