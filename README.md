@@ -1,4 +1,5 @@
 <img src="https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/blob/779d6269ca845437820b8483ce712a696e5417a8/Imagen1.jpg">
+
 # Drone Data in Agricultural Research
 
 In agricultural research, new forms of data are becoming available through Digital Data Capture (DDC). The technology starts with a drone equipped with high-resolution cameras and multispectral sensors. The drones scan crop fields to create ultra-high-definition images yielding incredible data insights. The most common role of drones in agriculture is as a remote sensing platform to assess and monitor crops, but emerging agricultural applications include precision distribution of agricultural chemicals and biological control agents, livestock health monitoring, and remote sampling.
@@ -15,9 +16,9 @@ GRVI index is the Green Red Vegetation Index, one of the spectral vegetation ind
 ## Project information
 For this project I imported and visualized drone based multispectral data in QGIS and extracted data values for areas of interest in both a manual, low throughput method and a more automated, high throughput method in conjunction with R scripts.
 
-## Find the results [here](https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/tree/main/Results)
+### Find the results [here](https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/tree/main/Results)
 
-## Find some projects I would love to work on [here](https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/blob/cfbe1d7ffba7986540024e6ff728ffbb7d27a98a/futureperspectives.md)
+### Find some projects I would love to work on [here](https://github.com/lucianaburdman/Drone-Data-in-Agricultural-Research/blob/cfbe1d7ffba7986540024e6ff728ffbb7d27a98a/futureperspectives.md)
 
 ## A little bit about me
 
