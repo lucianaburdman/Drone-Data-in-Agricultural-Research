@@ -18,6 +18,8 @@ For this project I imported and visualized drone based multispectral data in QGI
 
 
 
+
+
 ## Original data
 The data I work with was not captured by me, nor do I own any credits for it. For more information on the original data please refer to:
 Nelsen, T., & Lundy, M. (2021). Drone Data in Agricultural Research [GitHub repository]. 
