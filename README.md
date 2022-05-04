@@ -21,8 +21,9 @@ For this project I imported and visualized drone based multispectral data in QGI
 
 Hi there 👋, I’m Luciana
 
-+ I'm a doctor in biology and professional in data science, passionate about statistics and its applications in life science.
++ I'm a doctor in biology and professional in data science.
 + I am pasionate about learning new tools and collaborating with others to improve my research (for example working on projects like this one!).
++ I have +7 years of experience in R and Python, +2 in SAS and a little in SQL. I also have +4 years experience on QGIS.
 + You may also find me in the [filds](https://noticias.unsam.edu.ar/2017/09/11/investigadoras-del-3ia-relevaron-humedales-en-la-antartida/) (in spanish).
 
 You may find more information about me on my [LinkedIn](https://www.linkedin.com/in/luciana-burdman-biostatistician/) and feel free to e-mail me at luciana.burdman@gmail.com!
